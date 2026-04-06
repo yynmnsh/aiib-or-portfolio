@@ -27,7 +27,7 @@ Original work demonstrating understanding of AIIB's operational risk landscape a
 
 | # | Artefact | JD Responsibility | Link |
 |---|----------|-------------------|------|
-| 1 | **Scenario Analysis Framework** — MDB Context | "Support development of Scenario Analysis framework" | [Streamlit App](YOUR_STREAMLIT_URL_HERE) |
+| 1 | **Scenario Analysis Framework** — MDB Context | "Support development of Scenario Analysis framework" | [Streamlit App](https://aiib-scenario-analysis-prototype.streamlit.app/) |
 | 2 | MDB Peer Benchmarking — OR Frameworks | "Support OR framework enhancements through benchmarking" | *Coming soon* |
 | 3 | OR Incident Register & Dashboard | "Support capture and recording of OR incidents" | *Coming soon* |
 | 4 | Python Automation — OR Data Processing | "Python for development, data processing, automation & reporting" | *Coming soon* |
@@ -46,7 +46,7 @@ Original work demonstrating understanding of AIIB's operational risk landscape a
 ## Contact
 
 - **Email:** yayan.riyanto@monash.edu
-- **LinkedIn:** [linkedin.com/in/yayanriyanto](https://linkedin.com/in/yayanriyanto)
+- **LinkedIn:** [linkedin.com/in/yayanriyanto](https://linkedin.com/in/yayan-riyanto-a06481b2/)
 
 ---
 
