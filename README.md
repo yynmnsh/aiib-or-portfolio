@@ -46,7 +46,7 @@ Original work demonstrating understanding of AIIB's operational risk landscape a
 ## Contact
 
 - **Email:** yayan.riyanto@monash.edu
-- **LinkedIn:** [linkedin.com/in/yayanriyanto](https://linkedin.com/in/yayan-riyanto-a06481b2/)
+- **LinkedIn:** [linkedin.com/in/yayan-riyanto-a06481b2](https://linkedin.com/in/yayan-riyanto-a06481b2/)
 
 ---
 
