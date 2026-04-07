@@ -19,7 +19,7 @@ Evidence from professional experience at Indonesia's Ministry of Finance (Direct
 | 1 | **Credit Risk Analytics** — 230K+ loan records | Python, risk data processing, automated reporting, pattern identification | [Google Colab](https://colab.research.google.com/drive/1Zzbs2X6GhKc1DJrI1Y5nFE_Tzu2yC5Ux?usp=sharing) |
 | 2 | RCSA Dashboard — Digital Tax Services | Risk & Control Self-Assessment, control gap analysis | [Streamlit App](https://rcsa-dashboard.streamlit.app/) |
 | 3 | Regulatory Sandbox Benchmarking | Peer practice research, framework design | *Coming soon* |
-| 4 | Cross-Institutional Negotiation Case Study | Stakeholder coordination, process documentation | *Coming soon* |
+| 4 | Cross-Institutional Negotiation Case Study | Stakeholder coordination, process documentation | [Streamlit App](https://payment-reform.streamlit.app/) |
 
 ### Part 2: For AIIB — Research-Driven Deliverables
 
