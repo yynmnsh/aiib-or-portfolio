@@ -1,8 +1,8 @@
 # Operational Risk Portfolio — AIIB Internship Application (Ref. 25238)
 
 **Yayan Puji Riyanto**
-PhD Candidate, Business Law & Taxation — Monash University
-MS Business Analytics — University of Colorado Boulder
+PhD Candidate, Business Law & Taxation — Monash University ||
+MS Business Analytics — University of Colorado Boulder ||
 IT Governance & Regulatory Analyst, DG Tax — Ministry of Finance, Indonesia (2019–2022)
 
 ---
